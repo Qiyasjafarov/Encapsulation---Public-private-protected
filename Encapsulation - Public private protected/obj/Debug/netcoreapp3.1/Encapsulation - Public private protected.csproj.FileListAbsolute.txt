@@ -1,0 +1,14 @@
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\bin\Debug\netcoreapp3.1\Encapsulation - Public private protected.exe
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\bin\Debug\netcoreapp3.1\Encapsulation - Public private protected.deps.json
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\bin\Debug\netcoreapp3.1\Encapsulation - Public private protected.runtimeconfig.json
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\bin\Debug\netcoreapp3.1\Encapsulation - Public private protected.runtimeconfig.dev.json
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\bin\Debug\netcoreapp3.1\Encapsulation - Public private protected.dll
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\bin\Debug\netcoreapp3.1\Encapsulation - Public private protected.pdb
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\obj\Debug\netcoreapp3.1\Encapsulation - Public private protected.csproj.AssemblyReference.cache
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\obj\Debug\netcoreapp3.1\Encapsulation - Public private protected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\obj\Debug\netcoreapp3.1\Encapsulation - Public private protected.AssemblyInfoInputs.cache
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\obj\Debug\netcoreapp3.1\Encapsulation - Public private protected.AssemblyInfo.cs
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\obj\Debug\netcoreapp3.1\Encapsulation - Public private protected.csproj.CoreCompileInputs.cache
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\obj\Debug\netcoreapp3.1\Encapsulation - Public private protected.dll
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\obj\Debug\netcoreapp3.1\Encapsulation - Public private protected.pdb
+C:\Users\qiyas\source\repos\Encapsulation - Public private protected\Encapsulation - Public private protected\obj\Debug\netcoreapp3.1\Encapsulation - Public private protected.genruntimeconfig.cache
